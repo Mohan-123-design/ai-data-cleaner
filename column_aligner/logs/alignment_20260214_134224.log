@@ -1,0 +1,50 @@
+2026-02-14 13:42:24,226 |     INFO | Initialized aligner for: input\Victor 3.o M profile  - Raw data.xlsx
+2026-02-14 13:42:24,230 |     INFO | Backup created: backups\Victor 3.o M profile  - Raw data_backup_20260214_134224.xlsx
+2026-02-14 13:42:28,941 |     INFO | Processing sheet: Directory links
+2026-02-14 13:43:16,860 |     INFO | Processing sheet: optum raw data
+2026-02-14 13:44:02,961 |     INFO | Processing sheet: INTUNE HEALTH rawdata
+2026-02-14 13:44:48,386 |     INFO | Processing sheet: tia health raw data 
+2026-02-14 13:45:35,359 |     INFO | Processing sheet: stonybrookmedicine raw data
+2026-02-14 13:46:20,901 |     INFO | Processing sheet: baycare rawdata
+2026-02-14 13:47:08,465 |     INFO | Processing sheet: wmchealth raw data
+2026-02-14 13:47:55,356 |     INFO | Processing sheet: ummhealth raw data
+2026-02-14 13:48:41,516 |     INFO | Processing sheet: massgeneralbrigham raw data
+2026-02-14 13:49:32,740 |     INFO | Processing sheet: adirondackhealth raw data
+2026-02-14 13:50:19,401 |     INFO | Processing sheet: atlanticare raw data
+2026-02-14 13:51:05,259 |     INFO | Processing sheet: tufts - raw data
+2026-02-14 13:51:57,861 |     INFO | Processing sheet: jefferson health - raw data
+2026-02-14 13:52:47,561 |     INFO | Processing sheet: ascension raw data
+2026-02-14 13:53:38,369 |     INFO | Processing sheet: bapist health - raw data
+2026-02-14 13:54:26,150 |     INFO | Processing sheet: medicalcityhealthcare raw data
+2026-02-14 13:55:11,467 |     INFO | Processing sheet: bswhealth raw data
+2026-02-14 13:55:59,414 |     INFO | Processing sheet: MHS - Raw data
+2026-02-14 13:56:44,267 |     INFO | Processing sheet: Palm beach - Raw data
+2026-02-14 13:57:31,228 |     INFO | Processing sheet: berkeley raw data 
+2026-02-14 13:58:19,387 |     INFO | Processing sheet: americangeriatrics raw data
+2026-02-14 13:59:05,140 |     INFO | Processing sheet: UF Health - Raw data
+2026-02-14 13:59:50,974 |     INFO | Processing sheet: wphospital RAW DATA
+2026-02-14 14:00:36,727 |     INFO | Processing sheet: Montefiore - Raw data
+2026-02-14 14:01:26,198 |     INFO | Processing sheet: albanymed raw data
+2026-02-14 14:02:12,471 |     INFO | Processing sheet: mychartcentralus health raw dat
+2026-02-14 14:03:01,085 |     INFO | Processing sheet: Game health - Raw data
+2026-02-14 14:03:46,909 |     INFO | Processing sheet: kaiserpermanente raw data
+2026-02-14 14:04:35,575 |     INFO | Processing sheet: UBM - Raw data
+2026-02-14 14:05:21,090 |     INFO | Processing sheet: NY Health
+2026-02-14 14:06:07,121 |     INFO | Processing sheet: Data Cms - Raw data
+2026-02-14 14:06:54,996 |     INFO | Processing sheet: providence raw data
+2026-02-14 14:07:43,475 |     INFO | Processing sheet: christushealth raw data
+2026-02-14 14:08:31,588 |     INFO | Processing sheet: beth israel  raw data
+2026-02-14 14:09:17,005 |     INFO | Processing sheet: Talkiatry - Raw data
+2026-02-14 14:10:03,507 |     INFO | Processing sheet: Village medical - Raw data
+2026-02-14 14:10:50,588 |     INFO | Processing sheet: VIP Care - Raw data
+2026-02-14 14:11:37,613 |     INFO | Processing sheet: Mycare - Raw data
+2026-02-14 14:12:24,916 |     INFO | Processing sheet: Jen care, Chen med, Dedicated c
+2026-02-14 14:13:11,467 |     INFO | Processing sheet: Archwell - Raw data
+2026-02-14 14:13:56,150 |     INFO | Processing sheet: Convivacare - Raw data
+2026-02-14 14:14:42,088 |     INFO | Processing sheet: Genesis doctors - Raw data
+2026-02-14 14:15:29,962 |     INFO | Processing sheet: Pih health - Raw data
+2026-02-14 14:16:15,596 |     INFO | Processing sheet: Baystatehealth - Raw data
+2026-02-14 14:17:01,661 |     INFO | Processing sheet: LLUH - Raw data
+2026-02-14 14:17:47,948 |     INFO | Processing sheet: NYC Health - Raw data
+2026-02-14 14:18:37,053 |     INFO | Results saved to: output\Victor 3.o M profile  - Raw data_aligned_20260214_141835.xlsx
+2026-02-14 14:18:37,055 |     INFO | Structure report saved: output\structure_report_20260214_141837.txt
